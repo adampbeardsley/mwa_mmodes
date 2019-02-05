@@ -1,0 +1,1 @@
+obs_id=1227748592, job_type=c, timeres=2, freqres=40, edgewidth=80, conversion=uvfits, calibrate=false, allowmissing=true, flagdcchannels=true, noantennapruning=true

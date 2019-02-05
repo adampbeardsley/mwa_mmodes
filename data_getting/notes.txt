@@ -1,0 +1,13 @@
+
+Set your MWA_ASVO_API_KEY environment variable to your API KEY:
+export MWA_ASVO_API_KEY=<key>
+(You can get your key on the profile page of ASVO)
+
+# Get a single obs:
+mwa_client -c single_obs.csv -d /data6/mmodes/data/
+
+# Unflag the data 
+casa
+flagdata(vis='1220437672_063-066.ms/',mode='unflag')
+
+
