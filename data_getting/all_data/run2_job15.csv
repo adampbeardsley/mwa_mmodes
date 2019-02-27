@@ -1,0 +1,12 @@
+obs_id=1227761432, job_type=c, timeres=2, freqres=40, edgewidth=80, conversion=uvfits, calibrate=false, allowmissing=true, flagdcchannels=true, noantennapruning=true
+obs_id=1227761552, job_type=c, timeres=2, freqres=40, edgewidth=80, conversion=uvfits, calibrate=false, allowmissing=true, flagdcchannels=true, noantennapruning=true
+obs_id=1227761672, job_type=c, timeres=2, freqres=40, edgewidth=80, conversion=uvfits, calibrate=false, allowmissing=true, flagdcchannels=true, noantennapruning=true
+obs_id=1227761792, job_type=c, timeres=2, freqres=40, edgewidth=80, conversion=uvfits, calibrate=false, allowmissing=true, flagdcchannels=true, noantennapruning=true
+obs_id=1227761912, job_type=c, timeres=2, freqres=40, edgewidth=80, conversion=uvfits, calibrate=false, allowmissing=true, flagdcchannels=true, noantennapruning=true
+obs_id=1227762032, job_type=c, timeres=2, freqres=40, edgewidth=80, conversion=uvfits, calibrate=false, allowmissing=true, flagdcchannels=true, noantennapruning=true
+obs_id=1227762152, job_type=c, timeres=2, freqres=40, edgewidth=80, conversion=uvfits, calibrate=false, allowmissing=true, flagdcchannels=true, noantennapruning=true
+obs_id=1227762272, job_type=c, timeres=2, freqres=40, edgewidth=80, conversion=uvfits, calibrate=false, allowmissing=true, flagdcchannels=true, noantennapruning=true
+obs_id=1227764736, job_type=c, timeres=2, freqres=40, edgewidth=80, conversion=uvfits, calibrate=false, allowmissing=true, flagdcchannels=true, noantennapruning=true
+obs_id=1227764856, job_type=c, timeres=2, freqres=40, edgewidth=80, conversion=uvfits, calibrate=false, allowmissing=true, flagdcchannels=true, noantennapruning=true
+obs_id=1227764976, job_type=c, timeres=2, freqres=40, edgewidth=80, conversion=uvfits, calibrate=false, allowmissing=true, flagdcchannels=true, noantennapruning=true
+obs_id=1227765096, job_type=c, timeres=2, freqres=40, edgewidth=80, conversion=uvfits, calibrate=false, allowmissing=true, flagdcchannels=true, noantennapruning=true
