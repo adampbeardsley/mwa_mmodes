@@ -1,4 +1,4 @@
-pro mmode_calibrate
+pro mmode_test_deconvolution
 
   except=!except
   !except=0
@@ -33,6 +33,9 @@ pro mmode_calibrate
   snapshot_healpix_export=0
   cal_bp_transfer=0
   
+  transfer_calibration = '/data5/mmodes/fhd_out/fhd_calibrator/calibration/1220459632_158-161_cal.sav'
+  deconvolve = 1
+
   fhd_file_list=fhd_path_setup(vis_file_list, version=version, output_directory=output_directory)
   healpix_path=fhd_path_setup(output_dir=output_directory,subdir='Healpix',output_filename='Combined_obs', version=version)
 
