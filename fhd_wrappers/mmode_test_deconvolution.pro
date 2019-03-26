@@ -1,16 +1,10 @@
-pro mmode_test_deconvolution
+pro mmode_test_deconvolution, vis_file_list, output_directory, version, metafits_path
 
   except=!except
   !except=0
   heap_gc
 
-  ; parse command line args
   compile_opt strictarr
-  args = Command_Line_Args(count=nargs)
-  vis_file_list = args[0]
-  output_directory = args[1]
-  version = args[2]
-  metafits_path = args[3]
   
   recalculate_all = 1
   max_sources = 200000
